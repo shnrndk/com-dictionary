@@ -7,7 +7,7 @@ import WordForm from "../../components/AddWord";
 import FooterPage from "../../components/Footer/FooterPage";
 
 const { Header, Footer, Content } = Layout;
-
+//Hello
 function AddWord() {
   return (
     <Layout>
